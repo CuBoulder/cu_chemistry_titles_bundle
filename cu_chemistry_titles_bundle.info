@@ -1,5 +1,5 @@
-name = Chemistry Titles Bundle
+name = Chemistry Titles
 description = Allows specific HTML in title field
 core = 7.x
 
-bundle_contrib_packages = html_title
+dependencies[] = html_title
