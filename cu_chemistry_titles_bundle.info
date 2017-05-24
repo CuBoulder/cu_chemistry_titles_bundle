@@ -1,0 +1,5 @@
+name = Chemistry Titles
+description = Allows specific HTML in title field
+core = 7.x
+
+dependencies[] = html_title
