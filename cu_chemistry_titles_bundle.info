@@ -3,3 +3,5 @@ description = Allows specific HTML in title field
 core = 7.x
 
 dependencies[] = html_title
+
+bundle_group = 'request_bundles'
